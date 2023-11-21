@@ -1,4 +1,4 @@
-## xgboost_forecasting
+## XGBoost Forecasting
 
 ### Description:
 
